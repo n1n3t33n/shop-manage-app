@@ -11,7 +11,7 @@ Application Java de gestion multi-boutiques.
 ## 👥 Équipe
 - Moussa Ben TRAORE
 - Elie EHOUSSOU
-_ Edike Samuel
+- Edike Samuel
 
 ## 🚀 Démarrage
 Application 100% Java avec JavaFX et base de données embarquée.
