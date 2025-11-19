@@ -1,7 +1,6 @@
 # Compiled class files
 *.class
 *.jar
-*.war
 
 # Build directories
 target/
@@ -9,30 +8,15 @@ build/
 out/
 bin/
 
-# IDE files
+# IDE
 .vscode/
 .idea/
 *.iml
-*.iws
 
-# OS files
-.DS_Store
-Thumbs.db
-desktop.ini
+# Database
+*.db
+*.sqlite
 
 # Logs
 *.log
 logs/
-
-# Database files
-*.db
-*.sqlite
-*.db-journal
-
-# Config files sensibles
-*.properties
-*.config
-
-# Temporary files
-*.tmp
-*.temp
