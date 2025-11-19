@@ -1,15 +1,16 @@
-# Shop Manage App
+# 🏪 Shop Manage App
 
-plateforme Java de gestion multi-boutiques avec serveur central, client boutique et application utilisateur.
+Application Java de gestion multi-boutiques.
 
-## Modules
-- server/ - Serveur central API
-- boutique-app/ - Application gestion boutique  
-- client-app/ - Application recherche client
-- shared/ - Code commun
+## 📦 Architecture
+- **server/** - Serveur central API
+- **client-boutique/** - Application de gestion boutique
+- **client-user/** - Application de recherche client
+- **shared/** - Code commun entre modules
 
-## Équipe
-- Mo, Samuel, Davyna, Charles, Elie, Lamine, Yacouba
+## 👥 Équipe
+- Moussa Ben TRAORE
+- Elie EHOUSSOU
 
-## Quick Start
-Voir les README dans chaque module.
+## 🚀 Démarrage
+Application 100% Java avec JavaFX et base de données embarquée.
